@@ -9,3 +9,5 @@ console.log(obj1 !== obj2)
 
 # 2.Flag name & URL in console
  http://127.0.0.1:5500/index.html
+# 3.All countries name,regions,subregion,population
+ http://127.0.0.1:5500/index.html
