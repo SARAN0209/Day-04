@@ -8,4 +8,4 @@ var obj2 = JSON.stringify({ age: 5, name: "person1" })
 console.log(obj1 !== obj2)
 
 # 2.Flag name & URL in console
-http://127.0.0.1:5500/index.html
+ http://127.0.0.1:5500/index.html
